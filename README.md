@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kritsada Wiriya</h1>
-- 🔭 I’m currently working on **RMUTL**
+🔭 I’m currently working on **RMUTL**
 
-- 🌱 I’m currently learning **HTML CSS Javascript C**
+🌱 I’m currently learning **HTML CSS Javascript C**
 
-- 💬 Ask me about **Programming**
+💬 Ask me about **Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
