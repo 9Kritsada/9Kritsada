@@ -1,15 +1,3 @@
-### Hello, I'm Kritsada Wiriya! 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... RMUTL
-- 🌱 I’m currently learning ... HTML CSS Javascript C
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Programming
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ...
-
 # 💫 About Me:
 🔭 I’m currently working on ... RMUTL<br>🌱 I’m currently learning ... HTML CSS Javascript C<br>🤔 I’m looking for help with ...<br>💬 Ask me about ... Programming<br>📫 How to reach me: ... FB-Kritsada Wiriya<br>😄 Pronouns: ... He/His<br>⚡ Fun fact: ...
 
