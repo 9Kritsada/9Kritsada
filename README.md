@@ -4,7 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/9Kritsada/langs)](https://githubtrends.io)
 
