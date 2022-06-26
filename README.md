@@ -2,23 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git)](https://skillicons.dev)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8)
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git)](https://skillicons.dev)
 
 
 </td></tr></table>  
