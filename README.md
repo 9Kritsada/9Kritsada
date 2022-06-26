@@ -27,7 +27,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=9Kritsada&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8)
+</div>  
 
 <br/>  
 
