@@ -3,12 +3,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Kritsada&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9kritsada&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9kritsada&repo=convoychat" />
-</a>
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=9Kritsada&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
