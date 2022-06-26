@@ -4,10 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git)](https://skillicons.dev)
 
 
-</td></tr></table>  
-
-<br/>  
-
+</td></tr></table>   
 
 ## Connect with me  
 <div align="center">
@@ -21,10 +18,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center">
@@ -34,14 +27,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue" align="center" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8" align="center" />
 </div>  
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
   
