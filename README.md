@@ -29,10 +29,10 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue)" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue)" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue" align="center" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8)" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8" align="center" />
 </div>  
 <br/>  
 
