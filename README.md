@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/69795132/175813537-9153a9d9-598d-4c7c-951e-1b539e46d992.png)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=9Kritsada&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Kritsada)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=9Kritsada&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
