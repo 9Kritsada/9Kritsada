@@ -16,13 +16,7 @@ I code with :  👇
 </p>
 
 ## Github Stats  
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8" align="center" />
-</div>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Kritsada)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9Kritsada&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&theme=buefy&hide_border=true&layout=compact" /></a> -->
 
