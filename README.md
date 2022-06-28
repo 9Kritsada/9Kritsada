@@ -4,11 +4,16 @@
 [![github](https://img.shields.io/badge/9Kritsada-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9Kritsada/)
 ![](https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
-<h2> Skills </h2>
-<a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git" />
-</a>
-
+<p align="left">
+I code with :  👇
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>   
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ## Github Stats  
 <div align="center">
