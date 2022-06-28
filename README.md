@@ -17,10 +17,6 @@ I code with :  👇
 </p>
 
 ## Github Stats  
- <a href="https://github.com/9Kritsada/9Kritsada"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=9Kritsada&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=7903a1&icon_color=7903a1" height="192px"/></a>
-  <a href="https://github.com/9Kritsada/9Kritsada"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9Kritsada&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&theme=buefy&hide_border=true&layout=compact" /></a> -->
-
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=9Kritsada&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) -->
+<a href="https://github.com/9Kritsada/9Kritsada"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=9Kritsada&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=7903a1&icon_color=7903a1" height="192px"/></a>
+<a href="https://github.com/9Kritsada/9Kritsada"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
 
