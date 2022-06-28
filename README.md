@@ -12,6 +12,7 @@
 <a href="https://instagram.com/9Kritsada" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</div>  
 
 ## My Skill Set  
 <p align="center">
@@ -27,8 +28,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9Kritsada&theme=vue" align="center" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9Kritsada&theme=vue" align="center" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9Kritsada&theme=vue&utcOffset=8" align="center" />
-</div>  
-
 </div>  
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9Kritsada&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&theme=buefy&hide_border=true&layout=compact" /></a> -->
