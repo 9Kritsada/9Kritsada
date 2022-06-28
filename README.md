@@ -1,15 +1,8 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/69795132/176165354-94bf4801-0dc5-4708-ab62-4bb3340fad57.png)
 
-## Connect with me  
-<a href="https://github.com/9Kritsada" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/9kritsada" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/9Kritsada" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+[![Instagram](https://img.shields.io/badge/9Kritsada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/9Kritsada/)
+[![github](https://img.shields.io/badge/9Kritsada-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9Kritsada/)
+![](https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 <h2> Skills </h2>
 <a href="https://skillicons.dev">
