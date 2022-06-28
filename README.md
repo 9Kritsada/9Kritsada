@@ -5,6 +5,8 @@
 [![github](https://img.shields.io/badge/9Kritsada-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9Kritsada/)
 ![](https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
+Hello 🖐️ friends, welcome to my github I am kritsada wiriya, I am 18 years old. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested in frontend and backend.
+
 <p align="left">
 I code with :  👇
 <br><br>
