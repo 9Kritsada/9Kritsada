@@ -1,5 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/69795132/175813537-9153a9d9-598d-4c7c-951e-1b539e46d992.png)
-
+![github-header-image (1)](https://user-images.githubusercontent.com/69795132/176165354-94bf4801-0dc5-4708-ab62-4bb3340fad57.png)
 
 ## Connect with me  
 <div align="center">
