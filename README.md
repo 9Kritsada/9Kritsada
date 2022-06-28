@@ -1,7 +1,6 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/69795132/176165354-94bf4801-0dc5-4708-ab62-4bb3340fad57.png)
 
 ## Connect with me  
-<div align="center">
 <a href="https://github.com/9Kritsada" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -11,7 +10,6 @@
 <a href="https://instagram.com/9Kritsada" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
 
 <h2> Skills </h2>
 <a href="https://skillicons.dev">
