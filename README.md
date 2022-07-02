@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 
-Hello 🖐️ friends, welcome to my github I am kritsada wiriya, I am 18 years old. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested in frontend and backend.
+Hello 🖐️ friends, welcome to my github I am kritsada wiriya, I am 18 years old. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested in coding.
 
 <p align="left">
 I code with :  👇
