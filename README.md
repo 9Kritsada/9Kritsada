@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/69795132/180647718-d012790a-dc21-4e1b-b045-a27a3db4a97c.png)
+![github-header-image](https://user-images.githubusercontent.com/69795132/180647766-61a12c3d-2c43-443f-ba7f-f096426d4f18.png)
 
 [![Instagram](https://img.shields.io/badge/9Kritsada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/9Kritsada/)
 [![Facebook](https://img.shields.io/badge/9Kritsada-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/9Kritsada/)
