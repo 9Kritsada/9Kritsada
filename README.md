@@ -13,7 +13,7 @@ Hello 🖐️ friends, welcome to my github I am kritsada wiriya, I am 18 years 
 I code with :  👇
 <br><br>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -21,7 +21,7 @@ I code with :  👇
 <img src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </p>
 
 ## Github Stats  
