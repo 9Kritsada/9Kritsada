@@ -21,6 +21,7 @@ I code with :  👇
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </p>
 
 ## Github Stats  
