@@ -6,6 +6,7 @@
 [![github](https://img.shields.io/badge/9Kritsada-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9Kritsada/)
 ![](https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
 Hello 🖐️ friends, welcome to my github I am kritsada wiriya. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested web developer frontend and backend.
@@ -20,8 +21,6 @@ I code with :  👇
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
