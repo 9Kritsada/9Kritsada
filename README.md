@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/> 
 
 
-Hello 🖐️ friends, welcome to my github I am kritsada wiriya, I am 18 years old. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested in coding.
+Hello 🖐️ friends, welcome to my github I am kritsada wiriya. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested web developer frontend and backend.
 
 <p align="left">
 I code with :  👇
