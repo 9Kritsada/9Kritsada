@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/69795132/180647831-c174b150-b15b-497f-ac9f-e34c74b7b4fe.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/69795132/211474718-e992864f-ec2f-4647-b9e6-bce8bfd0e4c2.png)
 
 
 [![Instagram](https://img.shields.io/badge/9Kritsada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/9Kritsada/)
