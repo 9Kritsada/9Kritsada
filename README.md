@@ -62,7 +62,7 @@ Database :  👇
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## Github Stats  
+<!-- ## Github Stats  
 <a href="https://github.com/9Kritsada"><img alt="9Kritsada Github Stats" src="https://github-readme-stats.vercel.app/api/?username=9Kritsada&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=7903a1&icon_color=7903a1" height="150px"/></a>
 <a href="https://github.com/9Kritsada"><img alt="9Kritsada Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="150px"/></a>
-
+ -->
