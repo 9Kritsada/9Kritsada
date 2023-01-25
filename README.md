@@ -42,7 +42,7 @@ Hello 🖐️ friends, welcome to my github. I am kritsada wiriya. I am form tha
 <h4 align="center">Github Stats</h4>
 <p align="center"> 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&preferLogin=false"><img  alt="9kritsada's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/9kritsada?cardType=level-alternate&preferLogin=false" height="170px" /></a>
-  <a align="center" href="https://github.com/9Kritsada"><img alt="9Kritsada Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=58a6ff&icon_color=000&border_color=000" height="170px"/></a>
+  <a align="center" href="https://github.com/9Kritsada"><img alt="9Kritsada Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=false&bg_color=fff&title_color=58a6ff&icon_color=000" height="170px"/></a>
 </p>
 
 
