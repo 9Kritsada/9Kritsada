@@ -6,7 +6,7 @@
   <a align="center" href="https://instagram.com/9Kritsada/" target="_blank"><img src="https://img.shields.io/badge/9Kritsada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ig"/></a>
   <a align="center" href="https://www.facebook.com/9Kritsada/" target="_blank"><img src="https://img.shields.io/badge/9Kritsada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb"/></a>
   <a align="center" href="https://github.com/9Kritsada/"><img src="https://img.shields.io/badge/9Kritsada-12100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a align="center"<img src="https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" /></a>
+  <a align="center"><img src="https://komarev.com/ghpvc/?username=9Kritsada&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" /></a>
   <a align="center"><img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /></a>
   <a align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
 </p>
