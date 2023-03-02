@@ -40,9 +40,12 @@ Hello 🖐️ friends, welcome to my github. I am kritsada wiriya. I am form tha
 </p>
 
 <h4 align="center">Github Stats</h4>
+<p align="center">
+  <a><img  alt="GitHub Streak" src="https://streak-stats.demolab.com?user=9Kritsada&theme=swift" height="170px" /></a>
+</p>
 <p align="center"> 
-  <a><img  alt="9kritsada's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/9kritsada?cardType=level-alternate&preferLogin=false" height="170px" /></a>
-  <a><img alt="9Kritsada Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=default&hide_border=false&bg_color=fff&title_color=58a6ff&icon_color=000" height="170px"/></a>
+  <a><img  alt="9kritsada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=9Kritsada&show_icons=true&theme=swift" height="170px" /></a>
+  <a><img alt="9Kritsada Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Kritsada&langs_count=8&layout=compact&theme=swift" height="170px"/></a>
 </p>
 
 
