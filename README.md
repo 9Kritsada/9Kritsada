@@ -10,7 +10,7 @@
 </p>
 
 <p align="">
-Hello 🖐️ friends, welcome to my github. I am kritsada wiriya. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna. I am interested frontend and backend web developer.
+Hello 🖐️ friends, welcome to my github. I am kritsada wiriya. I am form thailand and I am studying in computer engineer at rajamangala university of technology lanna.
 </p>
 
 <h4 align="">I code with</h4>
