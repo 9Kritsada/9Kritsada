@@ -31,10 +31,10 @@ Initializing...
 $ connect --social
 ```
 
-- Instagram: [krits.wiri](https://instagram.com/krits.wiri/)
-- Facebook: [Kritsada Wiriya](https://www.facebook.com/9Kritsada/)  
-- GitHub: [9Kritsada](https://github.com/9Kritsada)
-- Webstie: [0xKr1ts - Profile](https://krits.top/)  
+- **Instagram**: [krits.wiri](https://instagram.com/krits.wiri/)
+- **Facebook**: [Kritsada Wiriya](https://www.facebook.com/9Kritsada/)  
+- **GitHub**: [9Kritsada](https://github.com/9Kritsada)
+- **Webstie**: [0xKr1ts - Profile](https://krits.top/)  
 
 ```ps
 $ status --profile_views
