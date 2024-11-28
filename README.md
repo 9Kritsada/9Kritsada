@@ -9,10 +9,14 @@ $ whoami
 ```ps
 $ init --welcome
 
-> Hello 🖐️ friends, welcome to my GitHub!  
-> I am Kritsada Wiriya, also known as **0xKr1ts**.  
-> I'm from Thailand and currently studying Computer Engineering at  
-> Rajamangala University of Technology Lanna.  
+> 🖐️ Hello, friends! Welcome to my GitHub!  
+> 👨‍💻 I’m **Kritsada Wiriya**, aka **0xKr1ts** from Thailand.  
+> Passionate about:  
+>    - **Full Stack Development**  
+>    - **Cyber Security** 🔐  
+>    - **CTF Competitions** 🧩  
+>  
+> 🚀 Always exploring new tech and learning every day!   
 ```
 
 ```ps
