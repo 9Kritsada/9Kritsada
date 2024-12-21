@@ -41,15 +41,6 @@ $ connect --social
 - **Webstie**: [0xKr1ts - Profile](https://krits.top/)  
 
 ```ps
-$ status --profile_views
-
-> Fetching... ████████████░░ [99%]  
-> Profile Views: ... [System online]
-```
-
-<a align="center"><img src="https://komarev.com/ghpvc/?username=9Kritsada&style=for-the-badge&color=brightgreen" /></a>
-
-```ps
 $ tools --i_code_with
 
 > React.js        JavaScript        Vue.js  
@@ -68,21 +59,6 @@ $ tools --i_code_with
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/> 
 </p>
 
-### ⚙️ SYSTEM SPECIFICATIONS:
-
-```ps
-$ uname -a
-
-Linux 0xKr1ts 5.11.0-34-generic #39~20.04.1-Ubuntu SMP Fri Oct 15 12:30:57 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux  
-```
-
-```ps
-$ uptime
-
-> System Uptime: 7d 5h 42m 33s  
-> No vulnerabilities detected.  
-```
-
 ### 💥 MOTTO:
 
 ```ps
@@ -97,5 +73,8 @@ $ exit
 > Disconnecting...  
 > See you in the matrix. 🚀  
 ```
+
+---
+<a align="center"><img src="https://komarev.com/ghpvc/?username=9Kritsada&style=for-the-badge&color=brightgreen" /></a>
 
 
