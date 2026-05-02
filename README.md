@@ -35,7 +35,7 @@ Initializing...
 $ connect --social
 ```
 
-- **Instagram**: [krits.wiri](https://instagram.com/9krits/)
+- **Instagram**: [9krits](https://instagram.com/9krits/)
 - **Facebook**: [Kritsada Wiriya](https://www.facebook.com/9Kritsada/)  
 - **GitHub**: [9Kritsada](https://github.com/9Kritsada)
 - **Webstie**: [0xKr1ts - Profile](https://krits.top/)  
